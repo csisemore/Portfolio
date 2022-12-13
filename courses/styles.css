@@ -1,0 +1,97 @@
+body {
+    font-family: bodoni, century;
+    color: #2F327C	;
+    padding: 20px;
+  }
+  
+  
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, h3, p, figcaption {
+    text-align: center;
+  }
+  figcaption{
+    color: #2F327C;
+    font-size: 20px;
+    padding-top: 30px;
+  }
+  
+  .header {
+    width: 80%;
+    background-color: rgb(252,	252,	252	);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  hr {
+    height: 1px;
+    background-color: #bd03fb;
+    border-color: #bd03fb;
+  }
+  
+  .bottom-line {
+    margin-top: 25px;
+  }
+  
+ #navbar ul{
+  padding:0;
+  list-style: none;
+}
+ 
+ #navbar li{
+  display: inline;
+ }
+
+ #navbar a{
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+ }
+  
+ 
+  
+  .course p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  
+  #
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  
+  .address {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    color:  #2F327C;
+  }
+  
+  a:visited {
+    color: cornflowerblue;
+  }
+  
+  a:hover {
+    color: rgb(184, 53, 182);
+  }
+  
+  a:active {
+    color: rgb(184, 53, 182;
+  }
