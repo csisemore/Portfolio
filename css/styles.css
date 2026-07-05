@@ -85,7 +85,52 @@ body {
   }
   
   a:visited {
-    color: cornflowerblue;
+    color: cornflowerblue;<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Password Generator</title>
+    <link href="css/style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="header">
+        <main>
+          <h1>Portfolio of Camilla Sisemore</h1>
+              <nav id="navbar">
+                  <div class="container">
+                      <ul>
+                          <li><a href="#">home</a></li>
+                          <li><a href="https://github.com/csisemore" target="_blank">github</a></li>
+                          <li><a href="https://www.linkedin.com/in/camilla-sisemore" target="_blank">LinkedIn</a></li>
+                          <li><a href="mailto:camilla@csisemore.com">Contact</a></li>
+                        </ul>
+                  </div>
+              </nav>
+
+  <!--          <div class="container">
+              <p>Generate a random password.</p>
+              <label for="pwLength">Enter the password length: </label>
+              <input type="number" id="pwLength">
+              <label for="symbols">Don't include symbols</label>
+            <input type="checkbox" id="symbols">
+            <button id="pass-generator">Generate password</button>
+          </div>
+          <div class="text-area">
+            <input
+            type="text"
+            id="strongPasswordValue"
+            value="PASSWORD"
+            disabled
+            />
+            <button type="button" onclick="alert('Password Copied')">Copy Password</button> 
+
+        </div> -->
+         Not exactly a 404 not found :)
+        </main>
+  
+          
+    </body>
+</html>
   }
   
   a:hover {
